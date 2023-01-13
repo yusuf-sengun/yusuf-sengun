@@ -2,8 +2,7 @@
 
 ## I'm a Student✏️, Devoloper💻 , Runner🏃 and Swimmer🏊  :)
 
-- ✏️ I am student at İstanbul Kültür University
-- 💻 I’m currently working at Telenity as Software Developer Intern
+- 💻 I’m currently working at Trendyol as Software Developer
 
 
 ### Connect with me:
